@@ -1,6 +1,7 @@
-baseURL: "https://theoldecodger.com/"
+baseURL: "https://grahamhartle.com/"
 title: The Old Codger
-paginate: 5
+pagination.pagerSize: 5
+ignoreLogs: ['warning-goldmark-raw-html']
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -22,7 +23,9 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
+  social:
+    name: YouTube
+    url: "https://youtube.com/@GrahamHartle"
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -72,14 +75,14 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
-
-  socialIcons:
-    - name: youtube
-      url: "https://youtube.com/@GrahamHartle"
-    - name: facebook
-      url: "https://facebook.com/grahamhartle"
-    - name: github
-      url: "https://github.com/grahamhartle/"
+    
+  #taxonomy: 'social'
+  #social.name: youtube
+  #url: "https://youtube.com/@GrahamHartle"
+  #social.name: facebook
+  #url: "https://facebook.com/grahamhartle"
+  #social.name: github
+  #url: "https://github.com/grahamhartle/"
 
   
   cover:
