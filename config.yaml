@@ -63,13 +63,10 @@ params:
     title: "The Old Codger"
     subtitle: "Another Grumpy Day"
     imageUrl: "/images/graham.jpg"
-<<<<<<< Updated upstream
     imageWidth: 220
     imageHeight: 220
-=======
     imageWidth: 150
     imageHeight: 150
->>>>>>> Stashed changes
     imageTitle: Graham
     buttons:
       - name: Posts
@@ -82,15 +79,6 @@ params:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
     
-<<<<<<< Updated upstream
-  taxonomy: 'social'
-    social.name: youtube
-    social.url: "https://youtube.com/@GrahamHartle"
-    social.name: facebook
-    social.url: "https://facebook.com/grahamhartle"
-    social.name: github
-    social.url: "https://github.com/grahamhartle/"
-=======
   #taxonomy: 'social'
   social.name: youtube
   url: "https://youtube.com/@GrahamHartle"
@@ -98,7 +86,6 @@ params:
   url: "https://facebook.com/grahamhartle"
   social.name: github
   url: "https://github.com/grahamhartle/"
->>>>>>> Stashed changes
 
   
   cover:
