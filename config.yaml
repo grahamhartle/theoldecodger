@@ -63,8 +63,8 @@ params:
     title: "The Old Codger"
     subtitle: "Another Grumpy Day"
     imageUrl: "/images/graham.jpg"
-    imageWidth: 180
-    imageHeight: 180
+    imageWidth: 220
+    imageHeight: 220
     imageTitle: Graham
     buttons:
       - name: Posts
