@@ -79,11 +79,11 @@ params:
     
   taxonomy: 'social'
     social.name: youtube
-      url: "https://youtube.com/@GrahamHartle"
+    social.url: "https://youtube.com/@GrahamHartle"
     social.name: facebook
-      url: "https://facebook.com/grahamhartle"
+    social.url: "https://facebook.com/grahamhartle"
     social.name: github
-      url: "https://github.com/grahamhartle/"
+    social.url: "https://github.com/grahamhartle/"
 
   
   cover:
