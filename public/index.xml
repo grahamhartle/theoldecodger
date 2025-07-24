@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Old Codger</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on The Old Codger</description>
+    <image>
+      <title>The Old Codger</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another post</title>
+      <link>http://localhost:1313/posts/another-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/another-post/</guid>
+      <description>&lt;p&gt;another post.&lt;/p&gt;
+&lt;p&gt;detailing how I setup org-mode to deploy my hugo website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My first post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;This is the post body!&lt;/p&gt;
+&lt;p&gt;What a great post!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The third post</title>
+      <link>http://localhost:1313/posts/the-third-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-third-post/</guid>
+      <description>&lt;p&gt;This is the third post in the series.&lt;/p&gt;
+&lt;p&gt;Getting good?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The third post</title>
+      <link>http://localhost:1313/posts/third-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/third-post/</guid>
+      <description>&lt;p&gt;This is the third post in the series.&lt;/p&gt;
+&lt;p&gt;Getting good?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
