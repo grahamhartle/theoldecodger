@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "The Old Codger"
     subtitle: "Another Grumpy Day!"
-    imageUrl: "/graham.png"
+    imageUrl: "graham.png"
     imageWidth: 220
     imageHeight: 220
     imageTitle: Graham
