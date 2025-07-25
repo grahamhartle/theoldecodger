@@ -2,24 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://grahamhartle.online/posts/another-post/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://grahamhartle.online/categories/</loc>
+    <loc>http://localhost:1313/categories/category1/</loc>
   </url><url>
-    <loc>https://grahamhartle.online/categories/category1/</loc>
+    <loc>http://localhost:1313/posts/my-new-blog/</loc>
   </url><url>
-    <loc>https://grahamhartle.online/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
-    <loc>https://grahamhartle.online/posts/</loc>
+    <loc>http://localhost:1313/tags/tag1/</loc>
   </url><url>
-    <loc>https://grahamhartle.online/tags/tag1/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://grahamhartle.online/tags/</loc>
-  </url><url>
-    <loc>https://grahamhartle.online/</loc>
-  </url><url>
-    <loc>https://grahamhartle.online/posts/the-third-post/</loc>
-  </url><url>
-    <loc>https://grahamhartle.online/posts/third-post/</loc>
+    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>
