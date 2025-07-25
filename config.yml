@@ -58,10 +58,10 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: "The Old Codger"
     subtitle: "Another Grumpy Day!"
-    imageUrl: "images/graham.png"
+    imageUrl: "/images/graham.png"
     imageWidth: 220
     imageHeight: 220
     imageTitle: Graham
